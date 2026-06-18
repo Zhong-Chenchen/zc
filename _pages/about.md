@@ -23,6 +23,7 @@ I am a master's student (2025 - now) at the State Key Laboratory of Information 
 
 🏆 Honors and Awards
 ======
+* 2026 — Runner-up, CVPR 2026 BRIGHT Challenge, 2026 年 CVPR BRIGHT 挑战赛亚军.
 * 2024 — Silver Medal (China), China International College Students' Innovation Competition, 中国国际大学生创新大赛全国银奖.
 
 🎓 Education
