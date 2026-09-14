@@ -31,7 +31,7 @@ I am Chen Zhong (钟晨), currently pursuing an M.E. degree in Photogrammetry an
 ======
 <div class="education-list">
   <div class="education-list__item">
-    <div class="education-list__date">2025.09 - now</div>
+    <div class="education-list__date">2025.09 – 2027(expected)</div>
     <div class="education-list__text">M.S. student, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University.</div>
   </div>
   <div class="education-list__item">
