@@ -61,7 +61,7 @@
           {% if post.authors %}
             <p class="publication-card__authors">{{ post.authors }}</p>
           {% endif %}
-          <p class="publication-card__venue"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <p class="publication-card__venue"><i>{{ post.venue }}</i>{% unless post.venue contains "Under Review" %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endunless %}
             {% if post.paperurl or post.codeurl or post.slidesurl or post.bibtexurl %}
               <span class="publication-card__links">
                 {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.paperlabel | default: "Paper" }}</a>{% endif %}
