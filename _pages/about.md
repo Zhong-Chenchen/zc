@@ -23,7 +23,6 @@ I am Chen Zhong (钟晨), currently pursuing an M.E. degree in Photogrammetry an
 
 🏆 Honors and Awards
 ======
-* 2026 — Runner-up, CVPR 2026 BRIGHT Challenge, 2026 年 CVPR BRIGHT 挑战赛亚军.
 * 2026 — Global Runner-up / Oral Presentation, CVPR 2026 MONTI Open Challenge, CVPR 2026 MONTI 开放挑战赛全球亚军/口头报告.
 * 2026 — National Silver Award, China International College Students' Innovation Competition, 中国国际大学生创新大赛国家级银奖.
 * 2025 — Outstanding Undergraduate Graduate, Wuhan University, 武汉大学优秀本科毕业生.
